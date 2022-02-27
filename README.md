@@ -1,2 +1,51 @@
 # Java-JNI-exercise
 Java JNI simple exercise, comparing Java and CPP factorial calculations
+
+Example output:
+
+Factorial in Java of 1 is: 1
+Factorial in Java of 2 is: 2
+Factorial in Java of 3 is: 6
+Factorial in Java of 4 is: 24
+Factorial in Java of 5 is: 120
+Factorial in Java of 6 is: 720
+Factorial in Java of 7 is: 5040
+Factorial in Java of 8 is: 40320
+Factorial in Java of 9 is: 362880
+Factorial in Java of 10 is: 3628800
+Factorial in Java of 11 is: 39916800
+Factorial in Java of 12 is: 479001600
+Factorial in Java of 13 is: 6227020800
+Factorial in Java of 14 is: 87178291200
+Factorial in Java of 15 is: 1307674368000
+Factorial in Java of 16 is: 20922789888000
+Factorial in Java of 17 is: 355687428096000
+Factorial in Java of 18 is: 6402373705728000
+Factorial in Java of 19 is: 121645100408832000
+Factorial in Java of 20 is: 2432902008176640000
+Factorial in CPP of 1 is: 1
+Factorial in CPP of 2 is: 2
+Factorial in CPP of 3 is: 6
+Factorial in CPP of 4 is: 24
+Factorial in CPP of 5 is: 120
+Factorial in CPP of 6 is: 720
+Factorial in CPP of 7 is: 5040
+Factorial in CPP of 8 is: 40320
+Factorial in CPP of 9 is: 362880
+Factorial in CPP of 10 is: 3628800
+Factorial in CPP of 11 is: 39916800
+Factorial in CPP of 12 is: 479001600
+Factorial in CPP of 13 is: 6227020800
+Factorial in CPP of 14 is: 87178291200
+Factorial in CPP of 15 is: 1307674368000
+Factorial in CPP of 16 is: 20922789888000
+Factorial in CPP of 17 is: 355687428096000
+Factorial in CPP of 18 is: 6402373705728000
+Factorial in CPP of 19 is: 121645100408832000
+Factorial in CPP of 20 is: 2432902008176640000
+
+Calculating factorials (1-20) in Java took 61ms
+Calculating factorials (1-20) in CPP took 12ms
+Time taken to calculate in Java is 49ms slower than CPP
+Time impact is 508.33334%
+
